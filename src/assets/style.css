@@ -1,0 +1,19 @@
+* {
+  transition: all 0.5s !important;
+}
+
+#banner {
+  height: 40vh;
+  border-radius: 40px !important;
+  margin: 20px auto;
+  width: 80%;
+  overflow: hidden !important;
+}
+
+#banner .carousel-item {
+  height: 40vh;
+}
+
+#banner .carousel-item .img {
+  height: 100%;
+}
