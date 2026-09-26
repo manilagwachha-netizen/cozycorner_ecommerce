@@ -4,8 +4,8 @@ import { Search, Heart, ShoppingCart, User } from "lucide-react";
 const Header = () => {
   return (
     <>
-      <header className="px-4" style={{background:"rgba(82, 0, 63, 0.5)"}}>
-        <nav className="navbar navbar-expand-lg " id="container">
+      <header className="px-4" style={{background:"rgba(66, 0, 51, 0.5)"}}>
+        <nav className="navbar navbar-expand-lg px-5 ">
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
               <img

@@ -1,6 +1,19 @@
-import React from "react";
+import axios from "axios";
+import React, { useState } from "react";
+import Card from "../components/Card";
 
 const Homepage = () => {
+  const [products, setProducts] = useState([]);
+
+  axios
+    .all([
+      axios.get("https://dummyjson.com/products/category/furniture"),
+      axios.get("https://dummyjson.com/products/category/home-decoration"),
+    ])
+    .then((result) => {
+      setProducts([...result[0].data.products, ...result[1].data.products]);
+    })
+    .catch((error) => console.log("Something Went Wrong in axios.", error));
   return (
     <>
       <div
@@ -9,7 +22,10 @@ const Homepage = () => {
           color: "#5c2a4a",
         }}
       >
-        <div className="p-5  d-flex justify-content-center align-items-center gap-5" id="container">
+        <div
+          className="p-5  d-flex justify-content-center align-items-center gap-5"
+          id="container"
+        >
           <div
             className="rounded-4 p-4"
             // style={{ boxShadow: "0 3px 10px rgba(109, 7, 83, 0.25)" }}
@@ -108,6 +124,16 @@ const Homepage = () => {
             </div>
           </div>
           {/* End of banner */}
+        </div>
+
+        <div className="my-5 px-5 py-4 border" id="trending_products">
+          <h1>Cozy Home Essentials</h1>
+          <hr />
+          <div className="row row-cols-2 row-cols-md-2 row-cols-lg-4 g-5">
+            {products.map((item) => (
+              <Card data={item} />
+            ))}
+          </div>
         </div>
       </div>
     </>
