@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 import { Search, Heart, ShoppingCart, User } from "lucide-react";
 
 const Header = () => {
   return (
     <>
-      <header className="bg-success-subtle px-4">
-        <nav className="navbar navbar-expand-lg ">
+      <header className="px-4" style={{background:"rgba(82, 0, 63, 0.5)"}}>
+        <nav className="navbar navbar-expand-lg " id="container">
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
               <img
@@ -27,7 +27,7 @@ const Header = () => {
               <span className="navbar-toggler-icon"></span>
             </button>
             <div className="collapse navbar-collapse" id="navbarScroll">
-              <ul className="navbar-nav m-auto my-2 my-lg-0 navbar-nav-scroll">
+              <ul className="navbar-nav m-auto my-2 my-lg-0 navbar-nav-scroll ">
                 <li className="nav-item">
                   <a className="nav-link active" aria-current="page" href="/">
                     Home
@@ -45,21 +45,30 @@ const Header = () => {
                   </a>
                 </li>
               </ul>
-              <div className="button">
-                <a href="#" className="btn btn-light btn-sm ms-2">
-                  <ShoppingCart size={22}/>
-                </a>
-                <a href="#" className="btn btn-light btn-sm ms-2">
-                  <User size={22}></User>
-                </a>
-                
+              <div className=" navbar-nav d-flex gap-3">
+                <div>
+                  <a
+                    href="#"
+                    className="btn btn-light btn-sm ms-2 bg-warning-subtle"
+                  >
+                    <ShoppingCart size={22} />
+                  </a>
+                </div>
+                <div>
+                  <a
+                    href="#"
+                    className="btn btn-light btn-sm ms-2 bg-warning-subtle"
+                  >
+                    <User size={22}></User>
+                  </a>
+                </div>
               </div>
             </div>
           </div>
         </nav>
       </header>
     </>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

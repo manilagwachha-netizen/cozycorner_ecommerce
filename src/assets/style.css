@@ -1,12 +1,13 @@
 * {
   transition: all 0.5s !important;
+  box-sizing: border-box;
 }
 
 #banner {
   height: 40vh;
   border-radius: 40px !important;
   margin: 20px auto;
-  width: 80%;
+  width: 60%;
   overflow: hidden !important;
 }
 
@@ -16,4 +17,8 @@
 
 #banner .carousel-item .img {
   height: 100%;
+}
+
+#container {
+  margin: 0px 150px;
 }
