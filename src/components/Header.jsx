@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <>
       <header className="px-4" style={{background:"rgba(66, 0, 51, 0.5)"}}>
-        <nav className="navbar navbar-expand-lg px-5 ">
+        <nav className="navbar navbar-expand-lg container ">
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
               <img
@@ -35,7 +35,7 @@ const Header = () => {
                 </li>
 
                 <li className="nav-item">
-                  <a className="nav-link" href="/products">
+                  <a className="nav-link" href="/shop">
                     Shop
                   </a>
                 </li>

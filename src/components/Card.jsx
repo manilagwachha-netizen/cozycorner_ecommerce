@@ -1,33 +1,50 @@
 import React from "react";
 
 const Card = (props) => {
-  return (
-    <>
-      <div class="col">
-        <div class="card card h-100 border-0 rounded-4 shadow overflow-hidden" style={{background:"rgba(228, 224, 226, 0)", color:"#842029"}}>
-          <img src={props.data.thumbnail} class="card-img-top" height="60%" alt="..." />
-          <div class="card-body px-5  fs-5">
-            {/* condition ? True : False */}
-            {props.data.title.length > 25 ? (
-              <h4 class="card-title" title={props.data.title}>{props.data.title.slice(0, 25)}..</h4>
-            ) : (
-              <h4 class="card-title" title={props.data.title}>{props.data.title}</h4>
-            )}
+  const product = props.data;
 
-            <p className="card-text fw-bold">
-              Price :
-              <span className="text-decoration-line-through text-muted small fw-light">
-                Rs.{props.data.price}
-              </span>
-              <span className="text-success"> Rs.{props.data.price}</span>
-            </p>
-            <a href={`/productview/${props.data.id}`} className="btn bg-warning-subtle fs-5 fw-semibold">
-              View More
-            </a>
-          </div>
+  console.log(product.thumbnail);
+
+  return (
+    <div className="col">
+      <div
+        className="card h-100 border-0 rounded-4 shadow overflow-hidden"
+        style={{
+          background: "rgba(228, 224, 226, 0)",
+          color: "#842029",
+        }}
+      >
+        <img
+          src={product.images}
+          className="card-img-top"
+          style={{ height: "250px", objectFit: "cover" }}
+          alt={product.title}
+        />
+        <div className="card-body px-5 fs-5">
+          {product.title.length > 25 ? (
+            <h4 className="card-title" title={product.title}>
+              {product.title.slice(0, 25)}..
+            </h4>
+          ) : (
+            <h4 className="card-title" title={product.title}>
+              {product.title}
+            </h4>
+          )}
+
+          <p className="card-text fw-bold">
+            Price :
+            <span className="text-success ms-2">Rs. {product.price}</span>
+          </p>
+
+          <a
+            href={`/productview/${product.id}`}
+            className="btn bg-warning-subtle fs-5 fw-semibold"
+          >
+            View More
+          </a>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 

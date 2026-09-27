@@ -3,15 +3,15 @@ import React from "react";
 const Footer = () => {
   return (
     <>
-      <footer className="bg-dark-subtle mt-5 py-4">
+      <footer className="">
         {" "}
         <div className="container text-center">
           {" "}
-          <h5 className="fw-bold text-danger-emphasis mb-2">
+          <h5 className="fw-bold text-danger-emphasis">
             {" "}
             🕯️ CozyCorner{" "}
           </h5>{" "}
-          <p className="text-secondary mb-3">
+          <p className="text-secondary">
             {" "}
             Cozy things for small spaces ✨{" "}
           </p>

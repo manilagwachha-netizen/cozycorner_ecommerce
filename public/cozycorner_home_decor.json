@@ -1,0 +1,1378 @@
+{
+  "products": [
+    {
+      "id": 101,
+      "title": "Cozy Ceramic Vase",
+      "description": "A simple ceramic vase that adds a warm and cozy touch to shelves, tables, and corners.",
+      "category": "home-decoration",
+      "price": 24.99,
+      "discountPercentage": 10.5,
+      "rating": 4.6,
+      "stock": 28,
+      "tags": [
+        "home decor",
+        "vase",
+        "ceramic",
+        "cozy"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-VASE-101",
+      "weight": 1,
+      "dimensions": {
+        "width": 12,
+        "height": 22,
+        "depth": 12
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Looks even prettier in person, love the glaze.",
+          "date": "2026-09-15T00:00:00.000Z",
+          "reviewerName": "Aarati",
+          "reviewerEmail": "aarati@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good size for a small shelf.",
+          "date": "2026-08-28T00:00:00.000Z",
+          "reviewerName": "Bishal",
+          "reviewerEmail": "bishal@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000101",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/ead9d5/5a4640?text=Cozy+Ceramic+Vase"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/ead9d5/5a4640?text=Cozy+Ceramic+Vase"
+    },
+    {
+      "id": 102,
+      "title": "Soft Table Lamp",
+      "description": "A minimal table lamp with a soft warm glow, perfect for bedside tables and reading corners.",
+      "category": "home-decoration",
+      "price": 39.99,
+      "discountPercentage": 8,
+      "rating": 4.8,
+      "stock": 15,
+      "tags": [
+        "home decor",
+        "lamp",
+        "lighting",
+        "cozy"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-LAMP-102",
+      "weight": 2,
+      "dimensions": {
+        "width": 18,
+        "height": 30,
+        "depth": 18
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "The warm light is exactly what my room needed.",
+          "date": "2026-09-22T00:00:00.000Z",
+          "reviewerName": "Sujata",
+          "reviewerEmail": "sujata@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000102",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/e8d9c8/5a4640?text=Soft+Table+Lamp"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/e8d9c8/5a4640?text=Soft+Table+Lamp"
+    },
+    {
+      "id": 103,
+      "title": "Woven Storage Basket",
+      "description": "A natural woven basket for organizing blankets, books, accessories, and everyday essentials.",
+      "category": "home-decoration",
+      "price": 29.99,
+      "discountPercentage": 12,
+      "rating": 4.5,
+      "stock": 34,
+      "tags": [
+        "home decor",
+        "basket",
+        "storage",
+        "woven"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-BASKET-103",
+      "weight": 1,
+      "dimensions": {
+        "width": 30,
+        "height": 26,
+        "depth": 30
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Sturdy and smells nicely of natural fibre.",
+          "date": "2026-08-18T00:00:00.000Z",
+          "reviewerName": "Nisha",
+          "reviewerEmail": "nisha@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000103",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/e4d6c3/5a4640?text=Woven+Storage+Basket"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/e4d6c3/5a4640?text=Woven+Storage+Basket"
+    },
+    {
+      "id": 104,
+      "title": "Minimal Wall Clock",
+      "description": "A quiet, minimal wall clock with a soft cream face that blends into any cozy room.",
+      "category": "home-decoration",
+      "price": 34.99,
+      "discountPercentage": 5,
+      "rating": 4.5,
+      "stock": 20,
+      "tags": [
+        "home decor",
+        "clock",
+        "wall decor",
+        "minimal"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-CLOCK-104",
+      "weight": 1,
+      "dimensions": {
+        "width": 30,
+        "height": 30,
+        "depth": 4
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000104",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/d8cdb8/5a4640?text=Minimal+Wall+Clock"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/d8cdb8/5a4640?text=Minimal+Wall+Clock"
+    },
+    {
+      "id": 105,
+      "title": "Decorative Cushion",
+      "description": "A soft bouclé cushion in warm ivory that turns any sofa corner into a reading nook.",
+      "category": "home-decoration",
+      "price": 19.99,
+      "discountPercentage": 7,
+      "rating": 4.7,
+      "stock": 40,
+      "tags": [
+        "home decor",
+        "cushion",
+        "soft furnishing",
+        "cozy"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-CUSHION-105",
+      "weight": 1,
+      "dimensions": {
+        "width": 45,
+        "height": 45,
+        "depth": 15
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "So soft, my cat has claimed it already.",
+          "date": "2026-09-19T00:00:00.000Z",
+          "reviewerName": "Kripa",
+          "reviewerEmail": "kripa@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000105",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/f1d3cc/5a4640?text=Decorative+Cushion"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/f1d3cc/5a4640?text=Decorative+Cushion"
+    },
+    {
+      "id": 106,
+      "title": "Wooden Photo Frame",
+      "description": "A hand-finished wooden photo frame for the little memories worth keeping on display.",
+      "category": "home-decoration",
+      "price": 14.99,
+      "discountPercentage": 3,
+      "rating": 4.4,
+      "stock": 50,
+      "tags": [
+        "home decor",
+        "photo frame",
+        "wood",
+        "memory"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-FRAME-106",
+      "weight": 1,
+      "dimensions": {
+        "width": 15,
+        "height": 20,
+        "depth": 2
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000106",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/ddcdb0/5a4640?text=Wooden+Photo+Frame"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/ddcdb0/5a4640?text=Wooden+Photo+Frame"
+    },
+    {
+      "id": 107,
+      "title": "Ceramic Plant Pot",
+      "description": "A hand-glazed ceramic pot with a drainage dish, sized for small succulents and herbs.",
+      "category": "home-decoration",
+      "price": 17.99,
+      "discountPercentage": 6,
+      "rating": 4.6,
+      "stock": 45,
+      "tags": [
+        "home decor",
+        "plant pot",
+        "ceramic",
+        "plants"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-POT-107",
+      "weight": 1,
+      "dimensions": {
+        "width": 14,
+        "height": 14,
+        "depth": 14
+      },
+      "warrantyInformation": "6 months warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "My pothos looks so happy in this.",
+          "date": "2026-09-05T00:00:00.000Z",
+          "reviewerName": "Manisha",
+          "reviewerEmail": "manisha@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000107",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/d9e2ce/5a4640?text=Ceramic+Plant+Pot"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/d9e2ce/5a4640?text=Ceramic+Plant+Pot"
+    },
+    {
+      "id": 108,
+      "title": "Cozy Throw Blanket",
+      "description": "An oversized knit throw blanket for cold evenings, movie nights, and slow Sunday mornings.",
+      "category": "home-decoration",
+      "price": 44.99,
+      "discountPercentage": 15,
+      "rating": 4.9,
+      "stock": 18,
+      "tags": [
+        "home decor",
+        "blanket",
+        "textile",
+        "cozy"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-BLANKET-108",
+      "weight": 2,
+      "dimensions": {
+        "width": 150,
+        "height": 200,
+        "depth": 2
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Warmest blanket I own, worth every rupee.",
+          "date": "2026-09-24T00:00:00.000Z",
+          "reviewerName": "Alisha",
+          "reviewerEmail": "alisha@example.com"
+        },
+        {
+          "rating": 5,
+          "comment": "Bought a second one as a gift.",
+          "date": "2026-09-12T00:00:00.000Z",
+          "reviewerName": "Prakash",
+          "reviewerEmail": "prakash@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000108",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/eadfc9/5a4640?text=Cozy+Throw+Blanket"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/eadfc9/5a4640?text=Cozy+Throw+Blanket"
+    },
+    {
+      "id": 109,
+      "title": "Vanilla Cloud Candle",
+      "description": "A hand-poured soy candle with warm vanilla, sandalwood and a whisper of cream. Burns slow and even.",
+      "category": "candles",
+      "price": 21.99,
+      "discountPercentage": 10,
+      "rating": 4.8,
+      "stock": 32,
+      "tags": [
+        "candle",
+        "vanilla",
+        "soy wax",
+        "cozy evening"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-CNDL-109",
+      "weight": 1,
+      "dimensions": {
+        "width": 8,
+        "height": 9,
+        "depth": 8
+      },
+      "warrantyInformation": "No warranty, handmade goods",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Smells like a bakery, my whole living room loves it.",
+          "date": "2026-09-21T00:00:00.000Z",
+          "reviewerName": "Sabina",
+          "reviewerEmail": "sabina@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000109",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/f3d9d2/5a4640?text=Vanilla+Cloud+Candle"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/f3d9d2/5a4640?text=Vanilla+Cloud+Candle"
+    },
+    {
+      "id": 110,
+      "title": "Lavender Dream Candle",
+      "description": "Calming lavender and chamomile in a soy-blend wax, made for winding down at the end of the day.",
+      "category": "candles",
+      "price": 21.99,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 26,
+      "tags": [
+        "candle",
+        "lavender",
+        "soy wax",
+        "relax"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-CNDL-110",
+      "weight": 1,
+      "dimensions": {
+        "width": 8,
+        "height": 9,
+        "depth": 8
+      },
+      "warrantyInformation": "No warranty, handmade goods",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000110",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/dcd2ea/5a4640?text=Lavender+Dream+Candle"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/dcd2ea/5a4640?text=Lavender+Dream+Candle"
+    },
+    {
+      "id": 111,
+      "title": "Cinnamon Spice Candle",
+      "description": "Warm cinnamon, clove and orange peel — smells like a bakery on a cold afternoon.",
+      "category": "candles",
+      "price": 19.99,
+      "discountPercentage": 5,
+      "rating": 4.6,
+      "stock": 22,
+      "tags": [
+        "candle",
+        "cinnamon",
+        "spice",
+        "autumn"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-CNDL-111",
+      "weight": 1,
+      "dimensions": {
+        "width": 8,
+        "height": 9,
+        "depth": 8
+      },
+      "warrantyInformation": "No warranty, handmade goods",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Perfect for autumn evenings.",
+          "date": "2026-09-09T00:00:00.000Z",
+          "reviewerName": "Rojina",
+          "reviewerEmail": "rojina@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000111",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/f0cba8/5a4640?text=Cinnamon+Spice+Candle"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/f0cba8/5a4640?text=Cinnamon+Spice+Candle"
+    },
+    {
+      "id": 112,
+      "title": "Sea Salt & Sage Candle",
+      "description": "A grounding blend of sea salt, sage and driftwood in a matte concrete jar.",
+      "category": "candles",
+      "price": 23.99,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 14,
+      "tags": [
+        "candle",
+        "sage",
+        "fresh",
+        "concrete jar"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-CNDL-112",
+      "weight": 1,
+      "dimensions": {
+        "width": 9,
+        "height": 9,
+        "depth": 9
+      },
+      "warrantyInformation": "No warranty, handmade goods",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000112",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/d9e2ce/5a4640?text=Sea+Salt+&+Sage+Candle"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/d9e2ce/5a4640?text=Sea+Salt+&+Sage+Candle"
+    },
+    {
+      "id": 113,
+      "title": "Mini Trio Candle Set",
+      "description": "Three travel-size candles — vanilla, lavender and cedar — perfect for gifting or trying all three.",
+      "category": "candles",
+      "price": 29.99,
+      "discountPercentage": 12,
+      "rating": 4.8,
+      "stock": 20,
+      "tags": [
+        "candle",
+        "gift set",
+        "mini",
+        "trio"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-CNDLSET-113",
+      "weight": 1,
+      "dimensions": {
+        "width": 20,
+        "height": 6,
+        "depth": 8
+      },
+      "warrantyInformation": "No warranty, handmade goods",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Gave this as a birthday gift, she loved it.",
+          "date": "2026-09-17T00:00:00.000Z",
+          "reviewerName": "Deepa",
+          "reviewerEmail": "deepa@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000113",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/f1d3cc/5a4640?text=Mini+Trio+Candle+Set"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/f1d3cc/5a4640?text=Mini+Trio+Candle+Set"
+    },
+    {
+      "id": 114,
+      "title": "Rosewater Bath Salts",
+      "description": "Epsom salts steeped in rosewater and geranium oil, for turning an ordinary bath into a ritual.",
+      "category": "self-care",
+      "price": 18.99,
+      "discountPercentage": 0,
+      "rating": 4.8,
+      "stock": 24,
+      "tags": [
+        "bath",
+        "rosewater",
+        "self care",
+        "epsom salts"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-BATH-114",
+      "weight": 1,
+      "dimensions": {
+        "width": 10,
+        "height": 14,
+        "depth": 10
+      },
+      "warrantyInformation": "No warranty, cosmetic goods",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "My skin feels so soft after using these.",
+          "date": "2026-09-18T00:00:00.000Z",
+          "reviewerName": "Sunita",
+          "reviewerEmail": "sunita@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000114",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/dcd2ea/5a4640?text=Rosewater+Bath+Salts"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/dcd2ea/5a4640?text=Rosewater+Bath+Salts"
+    },
+    {
+      "id": 115,
+      "title": "Gua Sha Self-Care Set",
+      "description": "A rose quartz gua sha tool with facial oil, packaged in a soft velvet pouch.",
+      "category": "self-care",
+      "price": 27.99,
+      "discountPercentage": 8,
+      "rating": 4.9,
+      "stock": 16,
+      "tags": [
+        "gua sha",
+        "facial",
+        "rose quartz",
+        "ritual"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-GUASHA-115",
+      "weight": 1,
+      "dimensions": {
+        "width": 6,
+        "height": 10,
+        "depth": 2
+      },
+      "warrantyInformation": "No warranty, cosmetic goods",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Five minutes of calm every morning now.",
+          "date": "2026-09-23T00:00:00.000Z",
+          "reviewerName": "Kritika",
+          "reviewerEmail": "kritika@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000115",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/f3d9d2/5a4640?text=Gua+Sha+Self-Care+Set"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/f3d9d2/5a4640?text=Gua+Sha+Self-Care+Set"
+    },
+    {
+      "id": 116,
+      "title": "Chamomile Sleep Mist",
+      "description": "A pillow mist with chamomile and lavender to spritz before bed — a small nightly ritual.",
+      "category": "self-care",
+      "price": 16.99,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 30,
+      "tags": [
+        "sleep",
+        "chamomile",
+        "pillow mist",
+        "night"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-MIST-116",
+      "weight": 1,
+      "dimensions": {
+        "width": 5,
+        "height": 15,
+        "depth": 5
+      },
+      "warrantyInformation": "No warranty, cosmetic goods",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000116",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/eadfc9/5a4640?text=Chamomile+Sleep+Mist"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/eadfc9/5a4640?text=Chamomile+Sleep+Mist"
+    },
+    {
+      "id": 117,
+      "title": "Silk Sleep Mask",
+      "description": "A mulberry silk eye mask that blocks light without pressing on your lashes.",
+      "category": "self-care",
+      "price": 15.99,
+      "discountPercentage": 5,
+      "rating": 4.6,
+      "stock": 25,
+      "tags": [
+        "sleep",
+        "silk",
+        "eye mask",
+        "rest"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-MASK-117",
+      "weight": 1,
+      "dimensions": {
+        "width": 9,
+        "height": 20,
+        "depth": 1
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Very soft, helps me nap on flights too.",
+          "date": "2026-09-02T00:00:00.000Z",
+          "reviewerName": "Anjali",
+          "reviewerEmail": "anjali@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000117",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/f0cba8/5a4640?text=Silk+Sleep+Mask"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/f0cba8/5a4640?text=Silk+Sleep+Mask"
+    },
+    {
+      "id": 118,
+      "title": "Herbal Tea Sampler",
+      "description": "A set of six caffeine-free herbal blends for slow mornings and quiet evenings alike.",
+      "category": "self-care",
+      "price": 22.99,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 20,
+      "tags": [
+        "tea",
+        "herbal",
+        "wellness",
+        "sampler"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-TEA-118",
+      "weight": 1,
+      "dimensions": {
+        "width": 15,
+        "height": 18,
+        "depth": 8
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "My favourite is the chamomile-mint one.",
+          "date": "2026-09-13T00:00:00.000Z",
+          "reviewerName": "Rakshya",
+          "reviewerEmail": "rakshya@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000118",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/d9e2ce/5a4640?text=Herbal+Tea+Sampler"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/d9e2ce/5a4640?text=Herbal+Tea+Sampler"
+    },
+    {
+      "id": 119,
+      "title": "Golden Hour Mug",
+      "description": "A stoneware mug with a warm gold rim, made for slow mornings and second cups of coffee.",
+      "category": "mugs",
+      "price": 13.99,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 45,
+      "tags": [
+        "mug",
+        "stoneware",
+        "coffee",
+        "morning"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-MUG-119",
+      "weight": 1,
+      "dimensions": {
+        "width": 9,
+        "height": 10,
+        "depth": 9
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Holds heat well and looks lovely on the shelf.",
+          "date": "2026-09-20T00:00:00.000Z",
+          "reviewerName": "Puja",
+          "reviewerEmail": "puja@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000119",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/eadfc9/5a4640?text=Golden+Hour+Mug"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/eadfc9/5a4640?text=Golden+Hour+Mug"
+    },
+    {
+      "id": 120,
+      "title": "Oatmilk Latte Mug Set",
+      "description": "A set of two speckled stoneware mugs in creamy oat tones — one for you, one for a slow morning together.",
+      "category": "mugs",
+      "price": 25.99,
+      "discountPercentage": 10,
+      "rating": 4.7,
+      "stock": 22,
+      "tags": [
+        "mug",
+        "set of two",
+        "speckled",
+        "coffee"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-MUGSET-120",
+      "weight": 1,
+      "dimensions": {
+        "width": 20,
+        "height": 10,
+        "depth": 9
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000120",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/f0cba8/5a4640?text=Oatmilk+Latte+Mug+Set"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/f0cba8/5a4640?text=Oatmilk+Latte+Mug+Set"
+    },
+    {
+      "id": 121,
+      "title": "Matte Terracotta Mug",
+      "description": "A matte-finish terracotta mug with a wide handle, sized generously for tea or hot chocolate.",
+      "category": "mugs",
+      "price": 15.99,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 30,
+      "tags": [
+        "mug",
+        "terracotta",
+        "matte",
+        "tea"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-MUG-121",
+      "weight": 1,
+      "dimensions": {
+        "width": 9,
+        "height": 11,
+        "depth": 9
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Rustic and cozy, exactly as pictured.",
+          "date": "2026-08-30T00:00:00.000Z",
+          "reviewerName": "Sristi",
+          "reviewerEmail": "sristi@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000121",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/d9e2ce/5a4640?text=Matte+Terracotta+Mug"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/d9e2ce/5a4640?text=Matte+Terracotta+Mug"
+    },
+    {
+      "id": 122,
+      "title": "Cozy Cat Mug",
+      "description": "A hand-painted mug with a curled-up cat resting on the handle — a little joy with every sip.",
+      "category": "mugs",
+      "price": 17.99,
+      "discountPercentage": 6,
+      "rating": 4.8,
+      "stock": 18,
+      "tags": [
+        "mug",
+        "cat",
+        "hand painted",
+        "gift"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-MUG-122",
+      "weight": 1,
+      "dimensions": {
+        "width": 9,
+        "height": 10,
+        "depth": 9
+      },
+      "warrantyInformation": "3 months warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Bought as a gift, my sister adores it.",
+          "date": "2026-09-25T00:00:00.000Z",
+          "reviewerName": "Bina",
+          "reviewerEmail": "bina@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000122",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/f3d9d2/5a4640?text=Cozy+Cat+Mug"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/f3d9d2/5a4640?text=Cozy+Cat+Mug"
+    },
+    {
+      "id": 123,
+      "title": "Sage & Cedar Diffuser",
+      "description": "A reed diffuser blending sage, cedar and a touch of citrus — grounding, green, never overpowering.",
+      "category": "fragrance",
+      "price": 28.99,
+      "discountPercentage": 0,
+      "rating": 4.6,
+      "stock": 20,
+      "tags": [
+        "fragrance",
+        "diffuser",
+        "sage",
+        "cedar"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-DIFF-123",
+      "weight": 1,
+      "dimensions": {
+        "width": 8,
+        "height": 22,
+        "depth": 8
+      },
+      "warrantyInformation": "No warranty, cosmetic goods",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000123",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/d9e2ce/5a4640?text=Sage+&+Cedar+Diffuser"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/d9e2ce/5a4640?text=Sage+&+Cedar+Diffuser"
+    },
+    {
+      "id": 124,
+      "title": "Blush Room Spray",
+      "description": "A quick-mist room spray in soft rose and cotton musk. One spritz and the room feels freshly made.",
+      "category": "fragrance",
+      "price": 16.99,
+      "discountPercentage": 8,
+      "rating": 4.6,
+      "stock": 38,
+      "tags": [
+        "fragrance",
+        "room spray",
+        "rose",
+        "quick mist"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-SPRAY-124",
+      "weight": 1,
+      "dimensions": {
+        "width": 6,
+        "height": 16,
+        "depth": 6
+      },
+      "warrantyInformation": "No warranty, cosmetic goods",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "My go-to before guests come over.",
+          "date": "2026-09-16T00:00:00.000Z",
+          "reviewerName": "Sadikshya",
+          "reviewerEmail": "sadikshya@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000124",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/f1d3cc/5a4640?text=Blush+Room+Spray"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/f1d3cc/5a4640?text=Blush+Room+Spray"
+    },
+    {
+      "id": 125,
+      "title": "Amber & Oud Wax Melts",
+      "description": "A set of six wax melts in warm amber and oud, for a slow-burning scent without an open flame.",
+      "category": "fragrance",
+      "price": 14.99,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 26,
+      "tags": [
+        "fragrance",
+        "wax melts",
+        "amber",
+        "oud"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-WAX-125",
+      "weight": 1,
+      "dimensions": {
+        "width": 12,
+        "height": 4,
+        "depth": 9
+      },
+      "warrantyInformation": "No warranty, cosmetic goods",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000125",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/eadfc9/5a4640?text=Amber+&+Oud+Wax+Melts"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/eadfc9/5a4640?text=Amber+&+Oud+Wax+Melts"
+    },
+    {
+      "id": 126,
+      "title": "Fresh Linen Drawer Sachets",
+      "description": "A set of four linen-scented sachets to tuck into drawers and closets for a clean, fresh scent.",
+      "category": "fragrance",
+      "price": 12.99,
+      "discountPercentage": 0,
+      "rating": 4.4,
+      "stock": 40,
+      "tags": [
+        "fragrance",
+        "sachets",
+        "linen",
+        "drawer"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-SACHET-126",
+      "weight": 1,
+      "dimensions": {
+        "width": 10,
+        "height": 12,
+        "depth": 1
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000126",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/f0cba8/5a4640?text=Fresh+Linen+Drawer+Sachets"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/f0cba8/5a4640?text=Fresh+Linen+Drawer+Sachets"
+    },
+    {
+      "id": 127,
+      "title": "Little Treat Gift Box",
+      "description": "A curated box with a mini candle, bath salts and a handwritten card slot — ready to gift or keep.",
+      "category": "gifts",
+      "price": 42.99,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 20,
+      "tags": [
+        "gift",
+        "gift box",
+        "curated",
+        "little treat"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-GIFTBOX-127",
+      "weight": 1,
+      "dimensions": {
+        "width": 25,
+        "height": 10,
+        "depth": 18
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "So beautifully packaged, felt special to receive.",
+          "date": "2026-09-26T00:00:00.000Z",
+          "reviewerName": "Merina",
+          "reviewerEmail": "merina@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000127",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/f1d3cc/5a4640?text=Little+Treat+Gift+Box"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/f1d3cc/5a4640?text=Little+Treat+Gift+Box"
+    },
+    {
+      "id": 128,
+      "title": "Cozy Evening Gift Set",
+      "description": "A candle, a mug and a pair of socks bundled together for the coziest kind of evening.",
+      "category": "gifts",
+      "price": 49.99,
+      "discountPercentage": 10,
+      "rating": 4.8,
+      "stock": 15,
+      "tags": [
+        "gift",
+        "gift set",
+        "cozy evening",
+        "bundle"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-GIFTBOX-128",
+      "weight": 2,
+      "dimensions": {
+        "width": 28,
+        "height": 12,
+        "depth": 20
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Got this for my mum, she was thrilled.",
+          "date": "2026-09-08T00:00:00.000Z",
+          "reviewerName": "Sagar",
+          "reviewerEmail": "sagar@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000128",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/eadfc9/5a4640?text=Cozy+Evening+Gift+Set"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/eadfc9/5a4640?text=Cozy+Evening+Gift+Set"
+    },
+    {
+      "id": 129,
+      "title": "Self-Care Sunday Box",
+      "description": "Bath salts, a gua sha tool and chamomile tea packed together for a slow self-care Sunday.",
+      "category": "gifts",
+      "price": 46.99,
+      "discountPercentage": 0,
+      "rating": 4.9,
+      "stock": 12,
+      "tags": [
+        "gift",
+        "self care",
+        "gift box",
+        "sunday"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-GIFTBOX-129",
+      "weight": 1,
+      "dimensions": {
+        "width": 25,
+        "height": 10,
+        "depth": 18
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000129",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/dcd2ea/5a4640?text=Self-Care+Sunday+Box"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/dcd2ea/5a4640?text=Self-Care+Sunday+Box"
+    },
+    {
+      "id": 130,
+      "title": "Desk Trinket Organizer",
+      "description": "A ceramic organizer for pens, clips and the tiny things that otherwise live nowhere on your desk.",
+      "category": "gifts",
+      "price": 19.99,
+      "discountPercentage": 0,
+      "rating": 4.5,
+      "stock": 33,
+      "tags": [
+        "gift",
+        "desk",
+        "organizer",
+        "ceramic"
+      ],
+      "brand": "CozyCorner",
+      "sku": "CC-ORG-130",
+      "weight": 1,
+      "dimensions": {
+        "width": 14,
+        "height": 8,
+        "depth": 10
+      },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships within 2-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Neat little thing, fits perfectly on my desk.",
+          "date": "2026-08-23T00:00:00.000Z",
+          "reviewerName": "Ujjwal",
+          "reviewerEmail": "ujjwal@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2026-09-27T00:00:00.000Z",
+        "updatedAt": "2026-09-27T00:00:00.000Z",
+        "barcode": "1000000130",
+        "qrCode": ""
+      },
+      "images": [
+        "https://dummyjson.com/image/400x400/d9e2ce/5a4640?text=Desk+Trinket+Organizer"
+      ],
+      "thumbnail": "https://dummyjson.com/image/200x200/d9e2ce/5a4640?text=Desk+Trinket+Organizer"
+    }
+  ]
+}

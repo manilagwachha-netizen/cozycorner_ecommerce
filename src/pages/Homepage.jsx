@@ -1,19 +1,22 @@
 import axios from "axios";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import Card from "../components/Card";
 
 const Homepage = () => {
   const [products, setProducts] = useState([]);
 
-  axios
-    .all([
-      axios.get("https://dummyjson.com/products/category/furniture"),
-      axios.get("https://dummyjson.com/products/category/home-decoration"),
-    ])
-    .then((result) => {
-      setProducts([...result[0].data.products, ...result[1].data.products]);
-    })
-    .catch((error) => console.log("Something Went Wrong in axios.", error));
+
+  useEffect(() => {
+    axios
+      .get("/cozycorner_home_decor.json")
+      .then((result) => {
+        console.log(result.data);
+        setProducts(result.data.products);
+      })
+      .catch((error) => {
+        console.log("Something Went Wrong in axios.", error);
+      });
+  }, []);
   return (
     <>
       <div
@@ -22,12 +25,9 @@ const Homepage = () => {
           color: "#5c2a4a",
         }}
       >
-        <div
-          className="p-5  d-flex justify-content-center align-items-center gap-5"
-          id="container"
-        >
+        <div className="py-5  d-md-flex justify-content-evenly align-items-center container">
           <div
-            className="rounded-4 p-4"
+            className="col-md-5 rounded-4 p-4"
             // style={{ boxShadow: "0 3px 10px rgba(109, 7, 83, 0.25)" }}
           >
             <div className="col-11.5 ">
@@ -55,7 +55,7 @@ const Homepage = () => {
                 the corners of your day that deserve more comfort.
               </p>
 
-              <div className="d-flex gap-3 flex-wrap">
+              <div className="d-md-flex gap-3 flex-wrap">
                 <button className="btn bg-warning-subtle text-warning-emphasis rounded-pill px-4 py-3 fw-semibold shadow-sm">
                   ✨ Shop the collection
                 </button>
@@ -68,7 +68,7 @@ const Homepage = () => {
           </div>
 
           {/* Banner */}
-          <div className="banner" id="banner">
+          <div className="banner col-md-5" id="banner">
             <div
               id="carouselExampleAutoplaying"
               className="carousel slide"
@@ -126,7 +126,7 @@ const Homepage = () => {
           {/* End of banner */}
         </div>
 
-        <div className="my-5 px-5 py-4 border" id="trending_products">
+        <div className="my-5 px-5 py-4 border container" id="trending_products">
           <h1>Cozy Home Essentials</h1>
           <hr />
           <div className="row row-cols-2 row-cols-md-2 row-cols-lg-4 g-5">

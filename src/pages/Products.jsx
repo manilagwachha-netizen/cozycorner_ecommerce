@@ -5,10 +5,17 @@ import Card from "../components/Card";
 const Products = () => {
   const [products, setProducts] = useState([]);
 
-  axios
-    .get("https://dummyjson.com/product/category/home-decoration")
-    .then((result) => setProducts(result.data.products))
-    .catch(console.log("Something Went Wrong in axious."));
+  useEffect(() => {
+    axios
+      .get("/cozycorner_home_decor.json")
+      .then((result) => {
+        console.log(result.data);
+        setProducts(result.data.products);
+      })
+      .catch((error) => {
+        console.log("Something Went Wrong in axios.", error);
+      });
+  }, []);
   return (
     <>
       <div className="my-5 px-5" id="trending_products border">
