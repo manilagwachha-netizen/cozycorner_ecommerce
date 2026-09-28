@@ -80,7 +80,8 @@ const Shop = () => {
   }, [location.state]);
 
   useEffect(() => {
-    const storedWishlist = JSON.parse(localStorage.getItem("wishlistItems")) || [];
+    const storedWishlist =
+      JSON.parse(localStorage.getItem("wishlistItems")) || [];
     setWishlist(storedWishlist.map((item) => item.id));
   }, []);
 
@@ -137,7 +138,8 @@ const Shop = () => {
   }, [products, search, category, sortBy, priceMax, minRating, inStockOnly]);
 
   const toggleWishlist = (product) => {
-    const wishlistItems = JSON.parse(localStorage.getItem("wishlistItems")) || [];
+    const wishlistItems =
+      JSON.parse(localStorage.getItem("wishlistItems")) || [];
     const exists = wishlistItems.find((item) => item.id === product.id);
 
     let updated;
@@ -258,7 +260,6 @@ const Shop = () => {
         background: "linear-gradient(135deg, #fff7ed, #fce7f3, #f5f3ff)",
       }}
     >
-
       <div className="position-relative container" style={{ zIndex: 1 }}>
         <div className="d-flex flex-wrap justify-content-between align-items-end gap-3 mb-4">
           <div>
