@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Swal from "sweetalert2";
-import { Plus, Minus, Trash2, ShoppingBag } from "lucide-react";
 import axios from "axios";
+import { Plus, Minus, Trash2, ShoppingBag } from "lucide-react";
 
 const TINTS = ["#F3D9D2", "#EADFC9", "#DCD2EA", "#F0CBA8", "#D9E2CE"];
 const tintFor = (id) => TINTS[id % TINTS.length];
