@@ -237,46 +237,23 @@ This allows cart, wishlist, and profile data to remain available when navigating
 
 ### 1. Homepage
 
-![alt text](image.png)
+![alt text](homepage1.png)
 
-![alt text](image-2.png)
+![alt text](homepage2.png)
 
 ### 2. Shop Page
 
-![alt text](image-1.png)
+![alt text](shop1.png)
 
-![alt text](image-6.png)
+![alt text](shop2.png)
 
 ### 3. Cart / Wishlist / Profile
 
-![alt text](image-3.png)
+![alt text](cart.png)
 
-![alt text](image-4.png)
+![alt text](wishlist.png)
 
-![alt text](image-5.png)
-
-> **Note:** Add your actual screenshots of the running application inside a `screenshots` folder in the project root using these filenames:
->
-> - `homepage.png`
-> - `shop.png`
-> - `cart.png`
-
-Recommended structure:
-
-```text
-cozycorner/
-├── screenshots/
-│   ├── homepage.png
-│   ├── shop.png
-│   └── cart.png
-│
-├── src/
-├── public/
-├── package.json
-└── README.md
-```
-
----
+![alt text](profile.png)
 
 ## ⚠️ Known Limitations
 
