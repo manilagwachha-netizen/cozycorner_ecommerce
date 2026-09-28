@@ -5,16 +5,15 @@ const Footer = () => {
     <>
       <footer className="">
         {" "}
-        <div className="container text-center">
-          {" "}
-          <h5 className="fw-bold text-danger-emphasis">
+        <div className="py-3" style={{ background: "#5c2a4a" }}>
+          <div className="container text-center text-white ">
             {" "}
-            🕯️ CozyCorner{" "}
-          </h5>{" "}
-          <p className="text-secondary">
-            {" "}
-            Cozy things for small spaces ✨{" "}
-          </p>
+            <h5 className="fw-bold text-danger-subtle">
+              {" "}
+              🕯️ CozyCorner{" "}
+            </h5>{" "}
+            <p className="text-white"> Cozy things for small spaces ✨ </p>
+          </div>
         </div>
       </footer>
     </>
