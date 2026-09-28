@@ -1,13 +1,17 @@
 * {
-  transition: all 0.5s !important;
+  /* transition: all 0.5s !important; */
   box-sizing: border-box;
+  
+}
+html{
+  overflow-y: scroll;
 }
 
 #banner {
   height: 40vh;
   border-radius: 40px !important;
   margin: 20px auto;
-  width: 60%;
+  width: 70%;
   overflow: hidden !important;
 }
 
