@@ -212,11 +212,9 @@ Axios is used to retrieve the product data and display it dynamically on the Hom
 Example:
 
 ```javascript
-axios
-  .get("/cozycorner_home_decor.json")
-  .then((result) => {
-    setProducts(result.data.products);
-  });
+axios.get("/cozycorner_home_decor.json").then((result) => {
+  setProducts(result.data.products);
+});
 ```
 
 ---
@@ -239,15 +237,20 @@ This allows cart, wishlist, and profile data to remain available when navigating
 
 ### 1. Homepage
 
-![CozyCorner Homepage](screenshots/homepage.png)
+![alt text](image.png)
+![alt text](image-2.png)
 
 ### 2. Shop Page
 
-![CozyCorner Shop Page](screenshots/shop.png)
+![alt text](image-1.png)
 
 ### 3. Cart / Wishlist / Profile
 
-![CozyCorner Cart](screenshots/cart.png)
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
 
 > **Note:** Add your actual screenshots of the running application inside a `screenshots` folder in the project root using these filenames:
 >
